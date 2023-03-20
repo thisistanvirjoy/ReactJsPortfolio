@@ -11,8 +11,8 @@ To run this project, you need to have Node.js and NPM (Node Package Manager) ins
 ### Installing
 * Clone the repository or download the ZIP file
 * Navigate to the project directory in your terminal
-* Run npm install to install the project dependencies
-* Run npm start to start the development server
+* Run **"npm install"** to install the project dependencies
+* Run **"npm start"** to start the development server
 
 ### Built With
 * ReactJS
